@@ -13,7 +13,7 @@ const SochialLink = () => {
                 <Link target="blank" to={"https://www.facebook.com/md.srrumon121"}>
                     <img className="w-[90px]" src={facebook} alt="facebook link" />
                 </Link>
-                <Link target="blank" to={""}>
+                <Link target="blank" to={"https://github.com/Rumon-Sarker"}>
                     <img className="w-[90px]" src={github} alt="github link" />
                 </Link>
                 <Link target="blank" to={"https://www.linkedin.com/in/md-rumon-sarker-589209241/"}>
